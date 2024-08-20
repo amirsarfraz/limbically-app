@@ -1,4 +1,4 @@
-# Limbic AI - Project Setup Overview
+# Limbically - Project Setup Overview
 
 This document outlines the setup and configuration for a web application project consisting of a Next.js frontend, a Node.js backend using TypeScript, and a PostgreSQL database. It details both Docker-based and non-Docker setups.
 
